@@ -17,19 +17,19 @@ Here you will see all the projects I have worked on in the first two weeks of Oc
 [Repo with commits](https://github.com/HassanShanJava/GOT-Blog/issues/1)
 
 
-### Fifth Pull Request (Waiting):
+### Fifth Pull Request (Accepted):
 [Repo with commits](https://github.com/developer-junaid/GOT-Blog/pull/17)
 
 
-### Sixth Pull Request (Waiting):
+### Sixth Pull Request (Accepted):
 [Repo with commits](https://github.com/OSSPhilippines/freefolio/pull/45)
 
 
-### Seveth Pull Request (Waiting):
+### Seveth Pull Request (Accepted):
 [Repo with commits](https://github.com/developer-junaid/TDL/pull/6)
 
 
-### Eighth Pull Request (Waiting):
+### Eighth Pull Request (Accepted):
 [Repo with commits](https://github.com/KiranAminPanjwani/Work-Flash/pull/23)
 
 
